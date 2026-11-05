@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-learning-and-courses-react-inertia",
+  "capabilityKey": "liberusoftware/module-crm-learning-and-courses",
+  "presentation": "laravel-inertia-react",
+  "package": "@liberusoftware/module-crm-learning-and-courses-react-inertia",
+  "foundation": "module-boilerplate-react-inertia",
+  "foundationCommit": "5a2d7f53327e9648efd68af033e1876ce1cf20f0",
+  "canonicalPlan": "projects/crm/nextjs/learning-and-courses.md",
+  "presentationPlan": "projects/crm/react/learning-and-courses.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
